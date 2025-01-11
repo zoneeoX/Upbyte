@@ -1,4 +1,4 @@
-# React File Uploader
+# Upbyte
 
 A modern file uploader built with React and Tailwind CSS, featuring drag-and-drop support, a dynamic upload progress bar, and easy file management.
 
